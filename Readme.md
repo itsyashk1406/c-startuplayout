@@ -7,7 +7,7 @@ You may have suggestions, improvements, or bug fixes, please feel free to submit
 
 ### Links
 
-- Live Site URL: [https://itsyashk1406.github.io/css-grid-startuplayout/](https://your-live-site-url.com)
+- Live Site URL: [https://itsyashk1406.github.io/css-startuplayout/]
 
 ### Built with
 
@@ -23,6 +23,7 @@ Also I realised that its okay to use hit and trial method to see what thing work
 
 ### Continued development
 
-In future projects I will be more aware while defining the grid rows and columns. 
+In future projects I will be more aware while defining the grid rows and columns.I also came across the bug that  
+```background-clip:text;``` and ```subgrid``` works differently on Chrome and Firefox.Looking forward to find some comman ground for croos browser supports.
 
 
